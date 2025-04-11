@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-<!--
-**0r0chic0/0r0chic0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Nimesh Pandey
+located_in: Vancouver, British Columbia
+current_job: Student
+education:
+  [
+    "Bachelor's in Computer Engineering"
+  ]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Machine Learning",
+    "Embedded Systems",
+    "Web Developement",
+    "DevOps",
+  ]
+  
+2025 Goals: ["Take part in a Hackathon each month."]
+hobbies: ["Soccer", "Skiing", "Music Production"]
