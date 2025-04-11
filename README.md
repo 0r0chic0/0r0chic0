@@ -3,13 +3,13 @@
 ```yaml
 name: Nimesh Pandey
 located_in: Vancouver, British Columbia
-current_job: Student
+current_status: Student
 education:
   [
     "Bachelor in Computer Engineering"
   ]
 
-fields_of_interests:
+fields_of_interest:
   [
     "Machine Learning",
     "Embedded Systems",
